@@ -1,14 +1,20 @@
 .italics {font-style:italic;}
+.bold{font-weight: bold;}
+/* sets font types to be called on*/
 H1, h2, h3,p, li{
     text-align: center;
     color: #ffffff;
 }
+/* chnages text color */
 .Chair{
     border-color: #800020;
     border-radius: 513px;
     border-style: solid;
     border-width: 50px;
 }
+/* changes images shape and border color */
+
 body{
     background-color: #5A5A5A;
 }
+/* dark mode */
