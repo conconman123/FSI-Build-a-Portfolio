@@ -1,0 +1,14 @@
+.italics {font-style:italic;}
+H1, h2, h3,p, li{
+    text-align: center;
+    color: #ffffff;
+}
+.Chair{
+    border-color: #800020;
+    border-radius: 513px;
+    border-style: solid;
+    border-width: 50px;
+}
+body{
+    background-color: #5A5A5A;
+}
